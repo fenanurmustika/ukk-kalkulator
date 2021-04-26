@@ -1,0 +1,7 @@
+E:\KK3\Kalkulator_Dennisya\Kalkulator_Dennisya\bin\Debug\Kalkulator_Dennisya.exe
+E:\KK3\Kalkulator_Dennisya\Kalkulator_Dennisya\bin\Debug\Kalkulator_Dennisya.pdb
+E:\KK3\Kalkulator_Dennisya\Kalkulator_Dennisya\obj\x86\Debug\Kalkulator_Dennisya.Form1.resources
+E:\KK3\Kalkulator_Dennisya\Kalkulator_Dennisya\obj\x86\Debug\Kalkulator_Dennisya.Properties.Resources.resources
+E:\KK3\Kalkulator_Dennisya\Kalkulator_Dennisya\obj\x86\Debug\Kalkulator_Dennisya.csproj.GenerateResource.Cache
+E:\KK3\Kalkulator_Dennisya\Kalkulator_Dennisya\obj\x86\Debug\Kalkulator_Dennisya.exe
+E:\KK3\Kalkulator_Dennisya\Kalkulator_Dennisya\obj\x86\Debug\Kalkulator_Dennisya.pdb
